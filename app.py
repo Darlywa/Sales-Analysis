@@ -121,6 +121,7 @@ st.markdown("""
 st.write("""This is just a canvas to represent the insights obtained from EDA questions using graph. The analysis was carried out
          on a 12 months sale's reports. The questions and the answers gotten from the dataset are quite challenging and interesting. For more details,
          kindly check the Github repository.
+        Github: https://github.com/Darlywa/Sales-Analysis.git
          """)
 
 
