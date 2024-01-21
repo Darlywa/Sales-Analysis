@@ -1,6 +1,7 @@
 # Sales-Analysis
 Performed an in-depth analysis of randomly generated sales dataset that closely resembles real world dataset. The tasks utilized advance Exploratory Data Analysis techinques to provide solutions to 5 strategic business enquiries. The insights discovered were visualized in canvas form using Streamlit App. See link below.
 
+https://sales-analysis-ifeanyi-darlington.streamlit.app/
 
 The 5 strategic business questions addressed were:
 
