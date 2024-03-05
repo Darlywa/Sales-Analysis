@@ -13,4 +13,3 @@ The 5 strategic business questions addressed were:
 
 A look at the questions shows that these tasks are quite interesting and match the standard of most Data Science interview questions.
 
-Reference: Keith Galli - https://www.youtube.com/watch?v=eMOA1pPVUc4
