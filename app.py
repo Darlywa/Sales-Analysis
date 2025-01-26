@@ -256,5 +256,3 @@ st.plotly_chart(fig)
 comments = """The most sold product was AAA-Batteries(4-pack) and it might be because of price. When compared with other products
 the price seem relatively low. """
 st.write(comments)
-
-st.write("Reference: Keith Galli: Reference: https://www.youtube.com/watch?v=eMOA1pPVUc4")
